@@ -1,0 +1,10 @@
+{
+  "name": "todo-app-grpc",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.6.9",
+    "grpc": "^1.24.11"
+  }
+}
